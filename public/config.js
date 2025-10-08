@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets",
-  "VITE_CUSTOM_MENUS": "Docs, https://docs.aegis.im/; Aegis dApp, https://app.aegis.im/earn",
+  "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/aegis_im",
   "VITE_DISCORD_URL": "https://discord.com/invite/aegis-im",
